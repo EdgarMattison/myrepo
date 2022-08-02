@@ -1,4 +1,6 @@
 This the first commit:
-+        Profile: Name: Vladimir
-+                 Age: 46
-+                 Date of birth: April 19, 1976
+        Profile: Name: Vladimir
+                 Age: 46
+                 Date of birth: April 19, 1976
+		 heigth: 1.76mt
+		
